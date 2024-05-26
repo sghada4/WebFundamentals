@@ -1,0 +1,34 @@
+#container{
+    margin: 50px;
+}
+
+#search{
+    border-radius: 20px;
+    color: rgb(13, 181, 181);
+    background-color: white;
+    border-color: rgb(13, 181, 181);
+    width: 100px;
+    margin: 10px;
+}
+
+#plus{
+    border-radius: 60px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(5, 244, 248);
+    border-color: rgb(5, 244, 248);
+    height: 35px;
+    width: 35px;
+    margin: 20px;
+}
+input[value="+"]{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#create{
+    box-shadow: 5px 5px 5px black;
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 30px;
+}
